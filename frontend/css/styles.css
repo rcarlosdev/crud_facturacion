@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.modal-content {
+    padding: 20px;
+}
+
+/* Estilos personalizados para el modal */
+#modalDetalleFactura .modal-content {
+    border-radius: 10px;
+}
+
+#modalDetalleFactura .modal-header {
+    background-color: #007bff;
+    color: white;
+    border-bottom: none;
+}
+
+#modalDetalleFactura .modal-body {
+    padding: 20px;
+}
+
+#modalDetalleFactura .modal-footer {
+    border-top: none;
+}
