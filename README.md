@@ -107,7 +107,7 @@ Este es un sistema básico de facturación desarrollado con **PHP** (backend), *
 ## Estructura del Proyecto
 
 ```
-    /facturacion
+    /crud_facturacion
 │
 ├── /backend
 │ ├── /config
